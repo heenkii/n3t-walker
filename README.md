@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n3t-walker&theme=tokyonight" alt="n3t-walker" />
-![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n3t-walker&theme=tokyonight) </div>
 </p>
 <p align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n3t-walker&theme=tokyonight) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n3t-walker&theme=tokyonight)
