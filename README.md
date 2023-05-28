@@ -1,5 +1,5 @@
 <h1 align="center">Hi unknown reader, I'm Nikolai (net-walker)</h1>
-<h4 align="center">I am software engineer from Moscow</h3>
+<h3 align="center">I am software engineer from Moscow</h3>
 
 
 - 👨‍💻 All of my projects are available [net-walker.com](https://net-walker.com/)
