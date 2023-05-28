@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikolai (net-walker)</h1>
+<h1 align="center">Hi unknown reader, I'm Nikolai (net-walker)</h1>
 <h3 align="center">I am software engineer from Moscow</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3t-walker&label=Profile%20views&color=0e75b6&style=flat" alt="n3t-walker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3t-walker" alt="n3t-walker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@n3t_walker" target="blank"><img src="https://img.shields.io/twitter/follow/@n3t_walker?logo=twitter&style=for-the-badge" alt="@n3t_walker" /></a> </p>
-
-- 👨‍💻 All of my projects are available [https://net-walker.com/](https://net-walker.com/)
+- 👨‍💻 All of my projects are available [net-walker.com](https://net-walker.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n3t-walker&show_icons=true&locale=en&layout=compact" alt="n3t-walker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n3t-walker&show_icons=true&locale=en" alt="n3t-walker" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n3t-walker&" alt="n3t-walker" /></p>
 
 
 <h1>Hi unknown reader</h1>
