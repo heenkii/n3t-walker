@@ -7,6 +7,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,sass"/>
 </p>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs"/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,cpp,c"/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nginx,git,postman,docker"/>
@@ -17,8 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ps,pr,neovim,vscode"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n3t-walker&theme=tokyonight" alt="n3t-walker" />
