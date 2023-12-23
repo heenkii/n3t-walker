@@ -1,6 +1,8 @@
 <h1 align="center">Hi unknown reader, I'm Nikolai (net-walker)</h1>
 <h3 align="center">I am software engineer from Moscow</h3>
-
+<p align="center">
+  <img src="https://i.ibb.co/4t6ssD7/Image-Creator-1.png" border="0">
+</p>
 <h3 align="center">👨‍💻 All about me and my projects are available <a href="https://net-walker.com/">net-walker.com</a></h3>
 
 <h4 align="center">Frontent</h4>
